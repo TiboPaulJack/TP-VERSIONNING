@@ -1,3 +1,5 @@
+const meteokey = "keymeteo889229382jd72"
+
 const card = document.querySelector("main");
 const motionMatchMedia = window.matchMedia("(prefers-reduced-motion)");
 const THRESHOLD = 15;
