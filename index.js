@@ -1,4 +1,5 @@
 const meteokey = "keymeteo889229382jd72"
+const api_key = "keymeteo"
 
 const card = document.querySelector("main");
 const motionMatchMedia = window.matchMedia("(prefers-reduced-motion)");
