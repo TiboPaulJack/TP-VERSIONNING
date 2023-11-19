@@ -1,5 +1,16 @@
 {
-    "dependencies": {
-      "vinted-api": "1.0.0"
-    }
+  "name": "tp-versionning",
+  "version": "1.0.0",
+  "description": "TP-VERSIONNING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "1.0.1": "^1.0.0",
+    "babel": "^6.23.0",
+    "dayjs": "^1.11.10"
   }
+}
